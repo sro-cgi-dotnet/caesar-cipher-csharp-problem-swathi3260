@@ -35,7 +35,7 @@ Ciphertext is written out in the same formatting as the input including spaces a
 
 ```
 # Add remote to the starter code
-git remote add starter <URL TO Starter Code>
+git remote add starter https://github.com/sro-boeing-wave-2/caesar-cipher-csharp-problem
 
 # To install and restore dependencies
 dotnet restore
